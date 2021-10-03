@@ -1,0 +1,16 @@
+{
+  "name": "planning-poker-server",
+  "version": "1.0.0",
+  "description": "Handles client connections and messaging",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^8.2.3"
+  },
+  "author": "Zebulon Lawrence",
+  "license": "ISC"
+}
